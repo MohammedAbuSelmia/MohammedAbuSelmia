@@ -11,7 +11,7 @@ I work across the full data lifecycle — from ingestion and cleaning to modelin
 **Data Analysis & Processing**
 Python · Pandas · NumPy · Matplotlib · Seaborn
 
-**Databases  **
+Databases  
 SQL Server (SSMS) · SQLAlchemy · pyodbc · ETL Pipelines
 
 **Business Intelligence**
